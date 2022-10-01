@@ -1,4 +1,4 @@
-start = int(input("Введіть початкове числе - "))
+start = int(input("Введіть початкове число - "))
 end = int(input("Введіть кінцеве число - "))
 if start %2==1:
     start += 1
